@@ -1,0 +1,4 @@
+{
+  "updateurl": "https://gitlab.com/uploads/-/system/personal_snippet/1978930/94f6c29d597a6d89c1e0c4bd35375b89/Bank-Helper.lua",
+  "latest": "26.0"
+}
